@@ -29,7 +29,7 @@ export default function Home() {
             loop
             playsInline
             poster="/images/logo.png"
-            className="w-full h-full object-cover opacity-40"
+            className="w-full h-full object-cover opacity-100"
           >
             <source src="/images/hero-video.mp4" type="video/mp4" />
           </video>
