@@ -15,11 +15,11 @@ export type Partner = {
 export const PARTNERS: Partner[] = [
   { name: "Kaspersky", logo: "kaspersky.jpg" },
   { name: "Dell Technologies", logo: "dell.jpg" },
-  {
-    name: "Central Ordnance Depot",
-    fullName: "Central Ordnance Depot",
-    logo: "cod.jpg",
-  },
+  // {
+  //   name: "Central Ordnance Depot",
+  //   fullName: "Central Ordnance Depot",
+  //   logo: "cod.jpg",
+  // },
   { name: "Router Switch", logo: "router-switch.jpg" },
   { name: "Jazz", logo: "jazz.jpg" },
   { name: "PTCL", fullName: "Pakistan Telecommunication Company Ltd", logo: "ptcl.jpg" },
